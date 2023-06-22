@@ -16,7 +16,7 @@ To create an API to print Hello World
 
 ### Controller.java
 
-java
+```java
 
 package com.project.javafullstack.controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -29,7 +29,7 @@ public class Controller {
  }
 }
 
-
+```
 
 ## OUTPUT:
 
